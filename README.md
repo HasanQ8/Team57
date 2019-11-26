@@ -4,6 +4,7 @@ Code Explanation and Thought Process
 
 
 
+```python
 `numeric_col =['Year of Record','Size of City','Work Experience in Current Job [years]',
               'Age','Yearly Income in addition to Salary (e.g. Rental Income)'] 
 
@@ -12,6 +13,7 @@ category_col =['Housing Situation','Satisfaction with employer'
 ,'Country'
 ,'Profession'
 ,'University Degree'] `
+```
 
 
 
