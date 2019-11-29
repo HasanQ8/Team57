@@ -1,4 +1,4 @@
-# Team57
+# Team57-Trinity Group Kaggle Competition- 10th place group (80)
 
 Code Explanation and Thought Process
 
